@@ -1,0 +1,18 @@
+GITHUB ONBOARDING — Project Biryani
+
+Goal: Put this repository on GitHub without using any code tools.
+
+Steps (web only):
+1) Go to github.com and sign in (or create an account).
+2) Click "New" repository. Name it: project-biryani (or anything you like). Keep default settings.
+3) On the repo page, click "Add file" → "Upload files".
+4) Drag-and-drop all folders/files from this package (README.md, /spec, /app, /server, .gitignore, .github/).
+5) Click "Commit changes". You now have a GitHub repo.
+
+Optional (GitHub Desktop, easier updates):
+- Install GitHub Desktop. Click "File → New repository" and choose a folder.
+- Copy these files into that folder. Commit → Publish repository.
+
+Next:
+- Open Issues using the templates to assign work to developers.
+- Share the repo link with your dev(s).
